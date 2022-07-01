@@ -40,40 +40,40 @@ The API gives  the ability to access hundreds of different questions and get que
 
 ##Screenshots
 
-### Desktop
-####Options
+## Desktop
+###Options
 ![img.png](app_screenshots/img.png)
 
-####Process
+###Process
 ![img_1.png](app_screenshots/img_1.png)
 
-####Final screen
+###Final screen
 ![img_2.png](app_screenshots/img_2.png)
 
-###Mobile portrait orientation
-####Options
-![img_3.png](app_screenshots/.img_3.png)
-####Process
+##Mobile portrait orientation
+###Options
+![img_3.png](app_screenshots/img_3.png)
+###Process
 ![img_4.png](app_screenshots/img_4.png)
 
-####Winnings
+###Winnings
 ![img_5.png](app_screenshots/img_5.png)
 
-####Final screen
+###Final screen
 ![img_8.png](app_screenshots/img_8.png)
 
 
-###Mobile landscape orientation
+##Mobile landscape orientation
 ####Process
 ![img_6.png](app_screenshots/img_6.png)
 
-####Winnings
+###Winnings
 ![img_7.png](app_screenshots/img_7.png)
 
-###Final screen
+##Final screen
 ![img_9.png](app_screenshots/img_9.png)
 
-### Error screen (Internet disconnection, Problems with API response)
+## Error screen (Internet disconnection, Problems with API response)
 ![img_10.png](app_screenshots/img_10.png)
 
 
