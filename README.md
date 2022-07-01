@@ -41,36 +41,39 @@ The API gives  the ability to access hundreds of different questions and get que
 ##Screenshots
 
 ## Desktop
-##Options
+
+Options
 ![img.png](app_screenshots/img.png)
 
-##Process
+Process
 ![img_1.png](app_screenshots/img_1.png)
 
-##Final screen
+Final screen
 ![img_2.png](app_screenshots/img_2.png)
 
 #Mobile portrait orientation
-##Options
+Options
 ![img_3.png](app_screenshots/img_3.png)
-##Process
+
+Process
 ![img_4.png](app_screenshots/img_4.png)
 
-##Winnings
+Winnings
 ![img_5.png](app_screenshots/img_5.png)
 
-##Final screen
+Final screen
 ![img_8.png](app_screenshots/img_8.png)
 
 
 #Mobile landscape orientation
-##Process
+
+Process
 ![img_6.png](app_screenshots/img_6.png)
 
-##Winnings
+Winnings
 ![img_7.png](app_screenshots/img_7.png)
 
-##Final screen
+Final screen
 ![img_9.png](app_screenshots/img_9.png)
 
 # Error screen (Internet disconnection, Problems with API response)
@@ -78,6 +81,7 @@ The API gives  the ability to access hundreds of different questions and get que
 
 
 # Run app
+
 In the project directory, you can run:
 
 ### `npm start`
